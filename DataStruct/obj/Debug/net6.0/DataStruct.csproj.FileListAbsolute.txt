@@ -1,0 +1,15 @@
+C:\AspNet\Api\DataStruct\bin\Debug\net6.0\DataStruct.exe
+C:\AspNet\Api\DataStruct\bin\Debug\net6.0\DataStruct.deps.json
+C:\AspNet\Api\DataStruct\bin\Debug\net6.0\DataStruct.runtimeconfig.json
+C:\AspNet\Api\DataStruct\bin\Debug\net6.0\DataStruct.dll
+C:\AspNet\Api\DataStruct\bin\Debug\net6.0\DataStruct.pdb
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.csproj.AssemblyReference.cache
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.AssemblyInfoInputs.cache
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.AssemblyInfo.cs
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.csproj.CoreCompileInputs.cache
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.dll
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\refint\DataStruct.dll
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.pdb
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\DataStruct.genruntimeconfig.cache
+C:\AspNet\Api\DataStruct\obj\Debug\net6.0\ref\DataStruct.dll
